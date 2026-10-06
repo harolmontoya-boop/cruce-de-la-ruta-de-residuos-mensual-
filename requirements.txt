@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+openpyxl
+lxml
+html5lib
